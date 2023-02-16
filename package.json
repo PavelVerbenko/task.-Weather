@@ -1,0 +1,11 @@
+{
+  "name": "true_and_false",
+  "version": "1.0.0",
+  "description": "Функция `willItRain` получает строку **JSON** от API ****погоды. Завершите функцию, чтобы она возвращала значение `true`, когда прогноз погоды показывает, что будет дождь.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pavel Verbneko",
+  "license": "ISC"
+}
